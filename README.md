@@ -49,10 +49,10 @@ I am a **Full Stack Web Developer** and **Flutter App Developer** currently purs
 
 <p align="center">
   <a href="https://github.com/Sumit1sah">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sumit1sah&show_icons=true&theme=radical&hideline=true&background=141321" alt="Sumit Sah's GitHub Stats" height="180px" />
+    <img align="left" src="https://github-stats-extended.vercel.app/api?username=Sumit1sah&show_icons=true&theme=radical&hideline=true&background=141321" alt="Sumit Sah's GitHub Stats" height="180px" />
   </a>
   <a href="https://github.com/Sumit1sah">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit1sah&layout=compact&theme=radical&background=141321" alt="Sumit Sah's Top Languages" height="180px" />
+    <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sumit1sah&layout=compact&theme=radical&background=141321" alt="Sumit Sah's Top Languages" height="180px" />
   </a>
 </p>
 
@@ -60,13 +60,13 @@ I am a **Full Stack Web Developer** and **Flutter App Developer** currently purs
 
 <p align="center">
   <a href="https://leetcode.com/u/sumit1sah/" target="_blank">
-    <img src="https://leetcode-stats-card.herokuapp.com/?username=sumit1sah&theme=dark" alt="Sumit Sah's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/sumit1sah?theme=dark" alt="Sumit Sah's LeetCode Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Sumit1sah">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit1sah&theme=radical&background=141321" alt="Sumit Sah's GitHub Streak" width="100%" />
+    <img src="https://streak-stats.demolab.com/?user=Sumit1sah&theme=radical&background=141321" alt="Sumit Sah's GitHub Streak" width="100%" />
   </a>
 </p>
 
