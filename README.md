@@ -20,9 +20,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sumit1sah"><img src="https://img.shields.io/github/followers/Sumit1sah?label=Follow&style=social" alt="GitHub Followers" /></a>
-  <img src="https://komarev.com/normal-badge/?username=Sumit1sah&color=00B4AB&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
+  <a href="https://github.com/Sumit1sah">
+    <img src="https://img.shields.io/github/followers/Sumit1sah?style=for-the-badge&logo=github&logoColor=white&color=7f22fe&label=Followers" alt="GitHub Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sumit1sah&color=00b4ab&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-00c853?style=for-the-badge&logo=git&logoColor=white" alt="PRs Welcome" />
 </p>
 
 <hr />
