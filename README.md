@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/github_profile_banner.png" alt="Sumit Sah's Profile Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi there, I'm Sumit Sah! 👋</h1>
 <p align="center">
