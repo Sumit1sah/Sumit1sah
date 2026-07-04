@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/github_profile_banner.png" alt="Sumit Sah's GitHub Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi there, I'm Sumit Sah! 👋</h1>
 <p align="center">
   <strong>Full Stack Web Developer & Flutter App Developer</strong>
@@ -91,16 +87,15 @@ I am a **Full Stack Web Developer** and **Flutter App Developer** currently purs
 Here are some of the projects I've built:
 
 - 📱 **[managehostel](https://github.com/Sumit1sah/managehostel)**
-  *A comprehensive hostel management application built using Dart & Flutter. Streamlines check-ins, room allocations, and daily management tasks.*
-  
+  _A comprehensive hostel management application built using Dart & Flutter. Streamlines check-ins, room allocations, and daily management tasks._
 - ☁️ **[Weather-app](https://github.com/Sumit1sah/Weather-app)**
-  *A real-time weather forecasting application built using JavaScript. Fetches live atmospheric data and renders it in a responsive interface.*
+  _A real-time weather forecasting application built using JavaScript. Fetches live atmospheric data and renders it in a responsive interface._
 
 - 🎮 **[tik-tac-toe-Game](https://github.com/Sumit1sah/tik-tac-toe-Game)**
-  *An interactive classic Tic-Tac-Toe game implemented with vanilla JavaScript, featuring clean animations and responsive controls.*
+  _An interactive classic Tic-Tac-Toe game implemented with vanilla JavaScript, featuring clean animations and responsive controls._
 
 - 💼 **[myPortfolio](https://github.com/Sumit1sah/myPortfolio)** & **[my-gallery](https://github.com/Sumit1sah/my-gallery)**
-  *Web showcases for presenting projects, designs, and collections using semantic HTML and polished CSS/layouts.*
+  _Web showcases for presenting projects, designs, and collections using semantic HTML and polished CSS/layouts._
 
 <hr />
 
