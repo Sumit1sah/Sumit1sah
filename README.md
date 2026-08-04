@@ -79,18 +79,18 @@ I am a passionate **Full Stack Web Developer** and **Flutter App Developer** cur
 
 <hr />
 
-## 📊 Statistics &amp; Coding Metrics
+## 📊 Statistics & Coding Metrics
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/Sumit1sah">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sumit1sah&show_icons=true&theme=radical&hide_border=true&bg_color=141321&title_color=fe428e&icon_color=f8d847&text_color=c9d1d9&count_private=true" alt="Sumit Sah's GitHub Stats" height="180px" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sumit1sah&show_icons=true&theme=radical&hide_border=true&bg_color=141321&title_color=fe428e&icon_color=f8d847&text_color=c9d1d9&count_private=true" alt="Sumit Sah's GitHub Stats" height="180px" />
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/Sumit1sah">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit1sah&layout=compact&theme=radical&hide_border=true&bg_color=141321&title_color=fe428e&text_color=c9d1d9" alt="Sumit Sah's Top Languages" height="180px" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sumit1sah&layout=compact&theme=radical&hide_border=true&bg_color=141321&title_color=fe428e&text_color=c9d1d9" alt="Sumit Sah's Top Languages" height="180px" />
       </a>
     </td>
   </tr>
@@ -102,7 +102,7 @@ I am a passionate **Full Stack Web Developer** and **Flutter App Developer** cur
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/Sumit1sah">
-        <img src="https://streak-stats.demolab.com/?user=Sumit1sah&theme=radical&hide_border=true&background=141321&ring=fe428e&fire=fe428e&currStreakLabel=fe428e" alt="Sumit Sah's GitHub Streak" height="180px" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sumit1sah&theme=radical&hide_border=true&background=141321&ring=fe428e&fire=fe428e&currStreakLabel=fe428e" alt="Sumit Sah's GitHub Streak" height="180px" />
       </a>
     </td>
   </tr>
