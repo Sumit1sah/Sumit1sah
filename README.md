@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Sumit Sah! 👋</h1>
 <p align="center">
-  <strong>Full Stack Web Developer & Flutter App Developer</strong>
+  <strong>Full Stack Web Developer &amp; Flutter App Developer</strong>
 </p>
 
 <p align="center">
@@ -29,12 +29,12 @@
 
 ## 💫 About Me
 
-I am a passionate **Full Stack Web Developer** and **Flutter App Developer** currently pursuing my **B.Tech in Computer Science & Engineering (CSE)** at **Kalinga Institute of Industrial Technology (KIIT)** in Bhubaneswar, Odisha. I love building efficient, scalable web applications and visually engaging cross-platform mobile apps.
+I am a passionate **Full Stack Web Developer** and **Flutter App Developer** currently pursuing my **B.Tech in Computer Science &amp; Engineering (CSE)** at **Kalinga Institute of Industrial Technology (KIIT)** in Bhubaneswar, Odisha. I love building efficient, scalable web applications and visually engaging cross-platform mobile apps.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎓 Academic & Location</h4>
+      <h4>🎓 Academic &amp; Location</h4>
       <ul>
         <li>🏫 <b>Education:</b> B.Tech CSE @ KIIT University, Bhubaneswar</li>
         <li>📍 <b>Current:</b> Bhubaneswar, Odisha, India</li>
@@ -42,9 +42,9 @@ I am a passionate **Full Stack Web Developer** and **Flutter App Developer** cur
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🚀 Specialization & Contact</h4>
+      <h4>🚀 Specialization &amp; Contact</h4>
       <ul>
-        <li>💻 <b>Focus:</b> Front-End Engineering, API Design & Architecture</li>
+        <li>💻 <b>Focus:</b> Front-End Engineering, API Design &amp; Architecture</li>
         <li>📱 <b>Mobile:</b> Cross-platform mobile development with Flutter/Dart</li>
         <li>📫 <b>Get in Touch:</b> <a href="mailto:sumitsah925@gmail.com">sumitsah925@gmail.com</a></li>
       </ul>
@@ -54,7 +54,7 @@ I am a passionate **Full Stack Web Developer** and **Flutter App Developer** cur
 
 <hr />
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack &amp; Tools
 
 <table>
   <tr>
@@ -67,42 +67,42 @@ I am a passionate **Full Stack Web Developer** and **Flutter App Developer** cur
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,html,css" alt="Frontend Stack" /></a>
     </td>
     <td align="center" width="25%">
-      <b>Backend & DB</b><br/><br/>
+      <b>Backend &amp; DB</b><br/><br/>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Stack" /></a>
     </td>
     <td align="center" width="25%">
-      <b>DevOps & Tools</b><br/><br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode" alt="Tools" /></a>
+      <b>DevOps &amp; Tools</b><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" /></a>
     </td>
   </tr>
 </table>
 
 <hr />
 
-## 📊 Statistics & Coding Metrics
+## 📊 Statistics &amp; Coding Metrics
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/Sumit1sah">
-        <img src="https://github-stats-extended.vercel.app/api?username=Sumit1sah&show_icons=true&theme=radical&hideline=true&background=141321" alt="Sumit Sah's GitHub Stats" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Sumit1sah&show_icons=true&theme=radical&hide_border=true&bg_color=141321&title_color=fe428e&icon_color=f8d847&text_color=c9d1d9&count_private=true" alt="Sumit Sah's GitHub Stats" height="180px" />
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/Sumit1sah">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sumit1sah&layout=compact&theme=radical&background=141321" alt="Sumit Sah's Top Languages" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit1sah&layout=compact&theme=radical&hide_border=true&bg_color=141321&title_color=fe428e&text_color=c9d1d9" alt="Sumit Sah's Top Languages" height="180px" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
       <a href="https://leetcode.com/u/sumit1sah/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/sumit1sah?theme=dark" alt="Sumit Sah's LeetCode Stats" height="180px" />
+        <img src="https://leetcard.jacoblin.cool/sumit1sah?theme=dark&font=Nunito&ext=heatmap" alt="Sumit Sah's LeetCode Stats" height="180px" />
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/Sumit1sah">
-        <img src="https://streak-stats.demolab.com/?user=Sumit1sah&theme=radical&background=141321" alt="Sumit Sah's GitHub Streak" height="180px" />
+        <img src="https://streak-stats.demolab.com/?user=Sumit1sah&theme=radical&hide_border=true&background=141321&ring=fe428e&fire=fe428e&currStreakLabel=fe428e" alt="Sumit Sah's GitHub Streak" height="180px" />
       </a>
     </td>
   </tr>
@@ -130,7 +130,7 @@ Here are some of the key projects I have built:
   <tr>
     <td width="50%" valign="top">
       <h3>📱 managehostel</h3>
-      <p>A comprehensive hostel management application built using <b>Dart & Flutter</b>. Streamlines check-ins, room allocations, and daily management tasks.</p>
+      <p>A comprehensive hostel management application built using <b>Dart &amp; Flutter</b>. Streamlines check-ins, room allocations, and daily management tasks.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter" />
         <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white" alt="Dart" />
@@ -159,7 +159,7 @@ Here are some of the key projects I have built:
       <a href="https://github.com/Sumit1sah/tik-tac-toe-Game"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 Portfolio & Gallery</h3>
+      <h3>💼 Portfolio &amp; Gallery</h3>
       <p>Web showcases for presenting projects, designs, and photographic collections using semantic HTML and polished responsive layouts.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
