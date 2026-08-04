@@ -124,13 +124,35 @@ I am a passionate **Full Stack Web Developer** and **Flutter App Developer** cur
 
 ## 📁 Featured Projects
 
-Here are some of the key projects I have built:
+Here are some of my key recent projects spanning **Mobile App Development**, **Full-Stack Web Apps**, and **Utility Tools**:
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 managehostel</h3>
-      <p>A comprehensive hostel management application built using <b>Dart &amp; Flutter</b>. Streamlines check-ins, room allocations, and daily management tasks.</p>
+      <h3>📱 Pocket Tracker</h3>
+      <p>A feature-rich personal finance &amp; expense tracking mobile application built with <b>Flutter &amp; Dart</b>. Helps users track income, categorize daily expenses, and monitor savings goals.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white" alt="Dart" />
+      </p>
+      <a href="https://github.com/Sumit1sah/POCKET_TRACKER"><b>View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 MERN Task Manager</h3>
+      <p>A full-stack task management web application built using the <b>MERN Stack</b>. Features CRUD workflows, MongoDB persistence, Express API routes, and a responsive React UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=flat&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+      </p>
+      <a href="https://github.com/Sumit1sah/Task-Manager-Mern"><b>View Repository →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 Hostel Management App</h3>
+      <p>A comprehensive hostel administration app built using <b>Dart &amp; Flutter</b>. Streamlines check-ins, room allocations, student records, and daily management tasks.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter" />
         <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white" alt="Dart" />
@@ -138,8 +160,8 @@ Here are some of the key projects I have built:
       <a href="https://github.com/Sumit1sah/managehostel"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ Weather App</h3>
-      <p>A real-time weather forecasting application built using <b>JavaScript</b>. Fetches live atmospheric data and renders it in a responsive interface.</p>
+      <h3>☁️ Real-Time Weather App</h3>
+      <p>A real-time weather forecasting web application built using <b>JavaScript &amp; Web APIs</b>. Fetches live atmospheric metrics and renders them dynamically in a responsive UI.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
@@ -150,20 +172,22 @@ Here are some of the key projects I have built:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 Tic-Tac-Toe Game</h3>
-      <p>An interactive classic Tic-Tac-Toe game implemented with <b>vanilla JavaScript</b>, featuring clean animations and responsive controls.</p>
+      <h3>🔑 Password Generator</h3>
+      <p>A secure customizable password generator built with <b>vanilla JavaScript</b>. Enables custom length selection, character criteria toggles, and instant copy capabilities.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
       </p>
-      <a href="https://github.com/Sumit1sah/tik-tac-toe-Game"><b>View Repository →</b></a>
+      <a href="https://github.com/Sumit1sah/Password_generator"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 Portfolio &amp; Gallery</h3>
-      <p>Web showcases for presenting projects, designs, and photographic collections using semantic HTML and polished responsive layouts.</p>
+      <h3>💼 Developer Portfolio &amp; Gallery</h3>
+      <p>Personal portfolio website showcasing web &amp; mobile projects, tech stack capabilities, and photographic collections using responsive design.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
       <a href="https://github.com/Sumit1sah/myPortfolio"><b>View Portfolio →</b></a>
     </td>
